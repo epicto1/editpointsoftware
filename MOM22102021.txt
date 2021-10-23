@@ -1,0 +1,53 @@
+EDIT POINT MOM (1s Mile Stone (30 days)
+Super Admin
+              Login/DashBoard
+Organizations
+•	Add Organization
+•	Edit Organization
+•	List Of Organizations
+
+Employees (admin Management)
+•	Employees Create 
+•	Edit 
+•	Delete
+•	Active/Deactive
+•	Assigning Organization 
+
+           List Customers Added By Employee
+
+            Manage Notifications
+
+
+
+Employee Module
+•	Login
+•	My Account
+•	Add Customers
+
+
+Customers
+•	Login
+•	DashBoard (Notifications From Edit point Group)
+•	My Account Details(Chan
+
+Action Plan For This Week
+Create DB (EditPoitCRM)
+Table
+
+Admin
+ID (UniqueIdentifier) (Primarey key)
+
+Organization
+ID (UniqueIdentifier) (Primarey key)
+Name (Nvarchar(500))
+
+Employee
+ID (UniqueIdentifier) (Primarey key)
+Name (Nvarchar(500))
+
+
+Organization FormBuilder
+ID
+Paramenter
+Datatype
+Value
